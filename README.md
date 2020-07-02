@@ -1,4 +1,4 @@
-# GitHub-
+# GitHub
 GitHub基本操作知识
 
 * **1.基本概念**
